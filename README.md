@@ -1,7 +1,7 @@
 THIS REPO CONTAINS MOST OF THE CODES WHICH I PRACTICED FROM GFG CIP COURSE.
 
 -------------------------------------------------------
-| IF YOU FIND IT HELPFUL , DO SHARE IT WITH OTHERS :P |
-                                                      |
-|                       PEACE O7                      |
+| IF YOU FIND IT HELPFUL , DO SHARE IT WITH OTHERS :P |<br>
+|                                                     |<br>
+|                       PEACE O7                      |<br>
 -------------------------------------------------------
