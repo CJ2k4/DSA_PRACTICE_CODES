@@ -1,4 +1,10 @@
 public class eg2 {
+
+
+    //Trapping Water NAIVE CODE ------------------
+
+
+
     public static void main(String[] args) {
         int[] arr = {3, 0, 1, 2, 5};
 
