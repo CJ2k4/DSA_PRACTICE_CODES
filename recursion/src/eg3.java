@@ -25,7 +25,7 @@ public class eg3 {
             rmax[i] = Math.max(arr[i], rmax[i+1]);
         }
 
-        for(int i = 0; i< arr.length; i++){
+        for(int i = 1; i< arr.length-1; i++){
             res += Math.min(lmax[i], rmax[i]) - arr[i];
         }
 
